@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ce58606-c8d6-4aea-9277-8b4a0ad01506" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +37,11 @@
     "Python.Multiplication.executor": "Run",
     "Python.even.executor": "Run",
     "Python.factorials.executor": "Run",
+    "Python.fibonacci.executor": "Run",
     "Python.sum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "<unknown>"
   }
 }]]></component>
   <component name="SharedIndexes">
