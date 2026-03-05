@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ce58606-c8d6-4aea-9277-8b4a0ad01506" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/factorials.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +38,7 @@
     "Python.factorials.executor": "Run",
     "Python.sum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "neww"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
