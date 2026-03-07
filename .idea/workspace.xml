@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ce58606-c8d6-4aea-9277-8b4a0ad01506" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reversed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vowel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,13 +38,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Multiplication.executor": "Run",
+    "Python.digit.executor": "Run",
     "Python.even.executor": "Run",
     "Python.factorials.executor": "Run",
     "Python.fibonacci.executor": "Run",
+    "Python.prime.executor": "Run",
+    "Python.reversed.executor": "Run",
     "Python.sum.executor": "Run",
+    "Python.vowel.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "<unknown>"
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
